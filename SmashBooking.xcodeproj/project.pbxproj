@@ -11,6 +11,22 @@
 		E86A5B452A28F9A7001FA202 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E86A5B442A28F9A7001FA202 /* ContentView.swift */; };
 		E86A5B472A28F9A9001FA202 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E86A5B462A28F9A9001FA202 /* Assets.xcassets */; };
 		E86A5B4A2A28F9A9001FA202 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E86A5B492A28F9A9001FA202 /* Preview Assets.xcassets */; };
+		E86A5B522A28FA27001FA202 /* club.json in Resources */ = {isa = PBXBuildFile; fileRef = E86A5B512A28FA27001FA202 /* club.json */; };
+		E86A5B552A28FA6B001FA202 /* Bundle-Decodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = E86A5B542A28FA6B001FA202 /* Bundle-Decodable.swift */; };
+		E86A5B572A28FBE9001FA202 /* MainTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = E86A5B562A28FBE9001FA202 /* MainTheme.swift */; };
+		E86A5B5F2A2A40B5001FA202 /* DaysView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E86A5B5E2A2A40B5001FA202 /* DaysView.swift */; };
+		E86A5B652A2A5026001FA202 /* DateExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = E86A5B642A2A5026001FA202 /* DateExtension.swift */; };
+		E89874BE2A2E267400020177 /* FieldsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E89874BD2A2E267400020177 /* FieldsView.swift */; };
+		E89874C02A2E28A100020177 /* Club.swift in Sources */ = {isa = PBXBuildFile; fileRef = E89874BF2A2E28A100020177 /* Club.swift */; };
+		E89874C22A2E299600020177 /* Match.swift in Sources */ = {isa = PBXBuildFile; fileRef = E89874C12A2E299600020177 /* Match.swift */; };
+		E89874C42A2E4DBA00020177 /* HourSlotView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E89874C32A2E4DBA00020177 /* HourSlotView.swift */; };
+		E89874C62A2F301100020177 /* MatchStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = E89874C52A2F301100020177 /* MatchStore.swift */; };
+		E89874C82A2F35AA00020177 /* ErrorWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = E89874C72A2F35AA00020177 /* ErrorWrapper.swift */; };
+		E89874CA2A2F372B00020177 /* ErrorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E89874C92A2F372B00020177 /* ErrorView.swift */; };
+		E89874CC2A2F3D5900020177 /* MatchesListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E89874CB2A2F3D5900020177 /* MatchesListView.swift */; };
+		E89874CE2A2F8EE200020177 /* BookView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E89874CD2A2F8EE200020177 /* BookView.swift */; };
+		E89874D02A2F909800020177 /* MatchCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E89874CF2A2F909800020177 /* MatchCardView.swift */; };
+		E89874D42A2F9DC200020177 /* TeamView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E89874D32A2F9DC100020177 /* TeamView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +35,22 @@
 		E86A5B442A28F9A7001FA202 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E86A5B462A28F9A9001FA202 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E86A5B492A28F9A9001FA202 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E86A5B512A28FA27001FA202 /* club.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = club.json; sourceTree = "<group>"; };
+		E86A5B542A28FA6B001FA202 /* Bundle-Decodable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle-Decodable.swift"; sourceTree = "<group>"; };
+		E86A5B562A28FBE9001FA202 /* MainTheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTheme.swift; sourceTree = "<group>"; };
+		E86A5B5E2A2A40B5001FA202 /* DaysView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DaysView.swift; sourceTree = "<group>"; };
+		E86A5B642A2A5026001FA202 /* DateExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateExtension.swift; sourceTree = "<group>"; };
+		E89874BD2A2E267400020177 /* FieldsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FieldsView.swift; sourceTree = "<group>"; };
+		E89874BF2A2E28A100020177 /* Club.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Club.swift; sourceTree = "<group>"; };
+		E89874C12A2E299600020177 /* Match.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Match.swift; sourceTree = "<group>"; };
+		E89874C32A2E4DBA00020177 /* HourSlotView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HourSlotView.swift; sourceTree = "<group>"; };
+		E89874C52A2F301100020177 /* MatchStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchStore.swift; sourceTree = "<group>"; };
+		E89874C72A2F35AA00020177 /* ErrorWrapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorWrapper.swift; sourceTree = "<group>"; };
+		E89874C92A2F372B00020177 /* ErrorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorView.swift; sourceTree = "<group>"; };
+		E89874CB2A2F3D5900020177 /* MatchesListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchesListView.swift; sourceTree = "<group>"; };
+		E89874CD2A2F8EE200020177 /* BookView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookView.swift; sourceTree = "<group>"; };
+		E89874CF2A2F909800020177 /* MatchCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchCardView.swift; sourceTree = "<group>"; };
+		E89874D32A2F9DC100020177 /* TeamView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeamView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +84,9 @@
 			isa = PBXGroup;
 			children = (
 				E86A5B422A28F9A7001FA202 /* SmashBookingApp.swift */,
-				E86A5B442A28F9A7001FA202 /* ContentView.swift */,
+				E86A5B532A28FA4E001FA202 /* Models */,
+				E86A5B502A28F9EA001FA202 /* Resources */,
+				E86A5B602A2A45F3001FA202 /* Views */,
 				E86A5B462A28F9A9001FA202 /* Assets.xcassets */,
 				E86A5B482A28F9A9001FA202 /* Preview Content */,
 			);
@@ -65,6 +99,52 @@
 				E86A5B492A28F9A9001FA202 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		E86A5B502A28F9EA001FA202 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				E86A5B512A28FA27001FA202 /* club.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		E86A5B532A28FA4E001FA202 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				E86A5B542A28FA6B001FA202 /* Bundle-Decodable.swift */,
+				E89874BF2A2E28A100020177 /* Club.swift */,
+				E89874C12A2E299600020177 /* Match.swift */,
+				E86A5B562A28FBE9001FA202 /* MainTheme.swift */,
+				E86A5B642A2A5026001FA202 /* DateExtension.swift */,
+				E89874C52A2F301100020177 /* MatchStore.swift */,
+				E89874C72A2F35AA00020177 /* ErrorWrapper.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		E86A5B602A2A45F3001FA202 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				E86A5B442A28F9A7001FA202 /* ContentView.swift */,
+				E89874CD2A2F8EE200020177 /* BookView.swift */,
+				E89874BD2A2E267400020177 /* FieldsView.swift */,
+				E89874CB2A2F3D5900020177 /* MatchesListView.swift */,
+				E89874CF2A2F909800020177 /* MatchCardView.swift */,
+				E89874D32A2F9DC100020177 /* TeamView.swift */,
+				E89874C92A2F372B00020177 /* ErrorView.swift */,
+				E89874C32A2E4DBA00020177 /* HourSlotView.swift */,
+				E86A5B612A2A4619001FA202 /* Days */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		E86A5B612A2A4619001FA202 /* Days */ = {
+			isa = PBXGroup;
+			children = (
+				E86A5B5E2A2A40B5001FA202 /* DaysView.swift */,
+			);
+			path = Days;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,6 +205,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E86A5B522A28FA27001FA202 /* club.json in Resources */,
 				E86A5B4A2A28F9A9001FA202 /* Preview Assets.xcassets in Resources */,
 				E86A5B472A28F9A9001FA202 /* Assets.xcassets in Resources */,
 			);
@@ -137,8 +218,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E89874D02A2F909800020177 /* MatchCardView.swift in Sources */,
+				E89874C82A2F35AA00020177 /* ErrorWrapper.swift in Sources */,
+				E89874C42A2E4DBA00020177 /* HourSlotView.swift in Sources */,
 				E86A5B452A28F9A7001FA202 /* ContentView.swift in Sources */,
+				E86A5B652A2A5026001FA202 /* DateExtension.swift in Sources */,
+				E89874CC2A2F3D5900020177 /* MatchesListView.swift in Sources */,
+				E89874C22A2E299600020177 /* Match.swift in Sources */,
 				E86A5B432A28F9A7001FA202 /* SmashBookingApp.swift in Sources */,
+				E89874C02A2E28A100020177 /* Club.swift in Sources */,
+				E89874BE2A2E267400020177 /* FieldsView.swift in Sources */,
+				E89874CE2A2F8EE200020177 /* BookView.swift in Sources */,
+				E86A5B5F2A2A40B5001FA202 /* DaysView.swift in Sources */,
+				E86A5B572A28FBE9001FA202 /* MainTheme.swift in Sources */,
+				E89874C62A2F301100020177 /* MatchStore.swift in Sources */,
+				E89874CA2A2F372B00020177 /* ErrorView.swift in Sources */,
+				E86A5B552A28FA6B001FA202 /* Bundle-Decodable.swift in Sources */,
+				E89874D42A2F9DC200020177 /* TeamView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,0 +1,53 @@
+{
+  "clubName": "Padel Sports Club",
+  "location": "456 Elm Street, City, Country",
+  "contact": {
+    "email": "info@padelsportsclub.com",
+    "phone": "+34 (555) 123-456"
+  },
+  "openingHours": {
+    "start": 7,
+    "end": 23
+  },
+  "facilities": [
+    {
+      "name": "Padel 1",
+      "capacity": 4,
+      "type": "Outdoor",
+      "availability": true
+    },
+    {
+      "name": "Padel 2",
+      "capacity": 4,
+      "type": "Outdoor",
+      "availability": true
+    },
+    {
+      "name": "Padel 3",
+      "capacity": 4,
+      "type": "Indoor",
+      "availability": true
+    }
+  ],
+  "priceTypes": [
+    {
+      "type": "Indoor",
+      "pricePerHour": 40
+    },
+    {
+      "type": "Outdoor",
+      "pricePerHour": 35
+    }
+  ],
+  "coaches": [
+    {
+      "name": "John Smith",
+      "specialty": "Junior Development"
+    },
+    {
+      "name": "Emily Davis",
+      "specialty": "Adult Beginner"
+    }
+  ]
+}
+
